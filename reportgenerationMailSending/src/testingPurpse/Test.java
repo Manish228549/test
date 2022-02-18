@@ -21,12 +21,12 @@ public class Test
 	 {  
 	  
 		 String host="mail2.molecularconnections.com";  
-		  final String user="manish.k@molecularconnections.com";//change accordingly  
-		  final String password="Ssm9430#";//change accordingly  
+		  final String user="manish.k@moconnections.com";//change accordingly  
+		  final String password="12345";//change accordingly  
 	    
-		  String to="theroyalmanishmaurya@gmail.com";//change accordingly  
+		  String to="theroyal@gmail.com";//change accordingly  
 		// create a new String array
-		  Address[] myCcList = InternetAddress.parse("manish228549@gmail.com,sasaramkigaliyan@gmail.com");
+		  Address[] myCcList = InternetAddress.parse("manish878549@gmail.com,sasn@gmail.com");
 
 		  
 		
