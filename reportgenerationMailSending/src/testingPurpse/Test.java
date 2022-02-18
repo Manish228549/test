@@ -20,13 +20,13 @@ public class Test
 	public static void main(String[] args) throws AddressException 
 	 {  
 	  
-		 String host="mail2.molecularconnections.com";  
-		  final String user="manish.k@moconnections.com";//change accordingly  
+		 String host="mail2.mcnnections.com";  
+		  final String user="man.k@moconnections.com";//change accordingly  
 		  final String password="12345";//change accordingly  
 	    
 		  String to="theroyal@gmail.com";//change accordingly  
 		// create a new String array
-		  Address[] myCcList = InternetAddress.parse("manish878549@gmail.com,sasn@gmail.com");
+		  Address[] myCcList = InternetAddress.parse("mani878549@gmail.com,sasn@gmail.com");
 
 		  
 		
